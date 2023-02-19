@@ -1,6 +1,6 @@
-## Olá eu somos a Luna Future, Programador (Hobby)!
+## Olá eu somos a Luna Future,  uma equipa Programadores!
 
-Estou criando bots de Discord com Sistema de tickets e Websites, no momento estou mais focados nos Bots de Discord. (17/01/2023)
+Desenvolvemos websites ,bots,etc.  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Noah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
